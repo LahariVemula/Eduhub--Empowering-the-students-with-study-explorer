@@ -1,0 +1,1 @@
+EduHub is an open-source web application designed for students to access educational materials like subject notes, PPTs, and PDFs conveniently. It addresses challenges like unavailability of study materials during exams by providing organized resources by academic branches. 
